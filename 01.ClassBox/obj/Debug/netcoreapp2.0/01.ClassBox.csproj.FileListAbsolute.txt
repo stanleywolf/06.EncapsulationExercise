@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\06.EncapsulationExercise\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\06.EncapsulationExercise\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\06.EncapsulationExercise\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\06.EncapsulationExercise\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\06.EncapsulationExercise\01.ClassBox\bin\Debug\netcoreapp2.0\01.ClassBox.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\06.EncapsulationExercise\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\06.EncapsulationExercise\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\06.EncapsulationExercise\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\06.EncapsulationExercise\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\06.EncapsulationExercise\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\06.EncapsulationExercise\01.ClassBox\obj\Debug\netcoreapp2.0\01.ClassBox.pdb
